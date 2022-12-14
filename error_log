@@ -1,0 +1,24 @@
+[18-Nov-2022 02:47:22 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 02:47:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/devhiwim/public_html/webcom/contact.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/devhiwim/public_html/webcom/contact.php on line 258
+[18-Nov-2022 02:50:24 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 02:50:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/devhiwim/public_html/webcom/contact.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/devhiwim/public_html/webcom/contact.php on line 258
+[18-Nov-2022 02:50:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 02:50:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/devhiwim/public_html/webcom/contact.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/devhiwim/public_html/webcom/contact.php on line 258
+[18-Nov-2022 05:32:47 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 05:34:12 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 06:06:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 06:11:21 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 06:47:06 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 07:11:08 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 09:32:47 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[18-Nov-2022 13:22:08 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 242
+[21-Nov-2022 07:28:22 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhiwim/public_html/webcom/contact.php on line 230
